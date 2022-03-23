@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ylshi-ms.
+- 👋 Hi, I’m @yulingshi-ms.
 - 👀 I’m interested in deep learning for programming languages. 
 - 🌱 I’m currently focusing on code translation with an awesome team at Microsoft! 
 - 📫 Please feel free to reach me by v-yulingshi@microsoft.com!
